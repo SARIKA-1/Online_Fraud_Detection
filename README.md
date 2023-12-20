@@ -1,4 +1,4 @@
-# TechSakham_Project
+# Online_Fraud_Detection
 
 Online fraud detection refers to the use of advanced technologies, algorithms, and analytics to identify and prevent fraudulent activities in various online transactions, such as e-commerce purchases, digital payments, and financial transactions. As the digital landscape continues to grow, so does the sophistication of fraudulent tactics employed by cybercriminals. Online fraud detection systems play a crucial role in mitigating these risks and safeguarding both businesses and consumers. Here are key aspects of online fraud detection:
 
